@@ -1,4 +1,4 @@
-# NG Facilitative Device Setup Automation Tool
+# Facilitative Device Setup Automation Tool
 
 ### Automated Device Configuration Tool
 
