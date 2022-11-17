@@ -1,4 +1,4 @@
-# Facilitative Device Setup Automation Tool
+# Facilitative Device Configuration/Setup Automation Tool
 
 ### Automated Device Configuration Tool
 
